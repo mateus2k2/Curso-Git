@@ -14,6 +14,7 @@
 int main(int argc, char *argv[ ]){
 
     printf("teste");
+    printf("teste");
 
 
     return 0;
