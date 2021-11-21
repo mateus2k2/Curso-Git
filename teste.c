@@ -20,3 +20,5 @@ int main(int argc, char *argv[ ]){
 
     return 0;
 }
+
+// git remote set-url origin https://mateus2k2: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@github.com/mates2k2/Curso-Git.git
